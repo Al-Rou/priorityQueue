@@ -1,3 +1,3 @@
 from MaxPQ import MaxPQ
 
-example = MaxPQ
+example = MaxPQ(10)
